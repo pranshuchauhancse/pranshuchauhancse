@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning Next js, Node js and MongoDB<br>
 
-<br>👨‍💻 All of my projects are available at https://github.com/pranshuchauhancse<br><br>📝 I regularly solving problems on https://leetcode.com/u/pranshuchauhan_1210/<br><br>💬 Ask me about Javascript, React and Gsap<br><br>📫 How to reach me pranshuchauhan121005@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/pranshu-chauhan-731265290/
+<br>👨‍💻 All of my projects are available at https://github.com/pranshuchauhancse<br><br>📝 I regularly solving problems on https://leetcode.com/u/pranshuchauhan_1210/<br><br>💬 Ask me about Javascript and React<br><br>📫 How to reach me pranshuchauhan121005@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/pranshu-chauhan-731265290/
 
 ## 🌐 Socials:
 
