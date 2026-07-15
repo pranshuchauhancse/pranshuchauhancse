@@ -1,38 +1,38 @@
-```markdown
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <b>Pranshu Chauhan</b>
-</h1>
+
+<h1 align="center"><b>Hi, I'm Pranshu Chauhan</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;JavaScript+%7C+React+Developer;DSA+Learner+%7C+Problem+Solver;Always+Learning+New+Technologies+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;React+%7C+Next.js+Developer;DSA+Learner+%7C+Problem+Solver;Always+Learning+New+Technologies+🚀">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranshuchauhancse&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=pranshuchauhancse&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>About Me</b>
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<picture>
+<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="280px">
+</picture>
 
 - 💻 Passionate Full-Stack Web Developer from India 🇮🇳
-- 🌱 Currently learning **Next.js**, **Node.js**, and **MongoDB**
-- 🔭 Working on improving my Full-Stack Development skills
+- 🌱 Currently learning **Next.js, Node.js & MongoDB**
+- 🚀 Building modern and responsive web applications
 - 🧩 Regularly solving DSA problems on LeetCode
 - 💬 Ask me about **JavaScript, React, HTML, CSS**
-- 👨‍💻 Explore my projects: **https://github.com/pranshuchauhancse**
-- 📫 Reach me: **pranshuchauhan121005@gmail.com**
-- 📄 LinkedIn: **https://www.linkedin.com/in/pranshu-chauhan-731265290/**
+- 👨‍💻 All of my projects are available at **https://github.com/pranshuchauhancse**
+- 📫 Reach me at **pranshuchauhan121005@gmail.com**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/pranshu-chauhan-731265290/**
 
-<br>
+<br><br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> <b>Skills</b>
 
 ## 👨‍💻 Languages
 
@@ -40,11 +40,15 @@
 <img src="https://skillicons.dev/icons?i=java,javascript,python"/>
 </p>
 
+---
+
 ## 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
 </p>
+
+---
 
 ## ⚙️ Backend
 
@@ -52,103 +56,95 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
+---
+
 ## 🗄 Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 </p>
 
-## 🛠 Tools
+---
+
+## ☁️ Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify"/>
+<img src="https://skillicons.dev/icons?i=vercel,netlify"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🛠 Tools
 
-### 💰 Expense Tracker
-> React • Node.js • MongoDB
-
-### 🌦 Weather App
-> React • OpenWeather API
-
-### 📚 Library Management System
-> Java • MySQL
-
-### 💼 Portfolio Website
-> React • Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
 
 ---
 
 # 💻 Coding Profiles
 
-<p align="center">
+<div align="center">
 
 <a href="https://leetcode.com/u/pranshuchauhan_1210/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/pranshuchauhancse">
-<img src="https://cdn.simpleicons.org/github/white" width="55"/>
+<img src="https://cdn.simpleicons.org/github/ffffff" width="60"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/pranshu-chauhan-731265290/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55"/>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="60"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>GitHub Stats</b>
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranshuchauhancse&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pranshuchauhancse&show_icons=true&theme=radical" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshuchauhancse&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshuchauhancse&layout=compact&theme=radical" height="180"/>
 
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranshuchauhancse&theme=radical" height="180"/>
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranshuchauhancse&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranshuchauhancse&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranshuchauhancse&theme=react-dark"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pranshuchauhancse&theme=tokyonight&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pranshuchauhancse&theme=radical&margin-w=15&margin-h=15"/>
 
-</p>
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/pranshu-chauhan-731265290/">
+<a href="https://www.linkedin.com/in/pranshu-chauhan-731265290/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -167,10 +163,10 @@
 &nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/pranshuchauhan_1210/">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -178,9 +174,8 @@
 
 ## ⭐ Thanks for visiting my profile!
 
-### 🚀 Happy Coding • Keep Learning • Keep Building
+### 🚀 Keep Learning • Keep Building • Keep Growing
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
 
 </div>
-```
