@@ -1,6 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00f4,100:00d4ff&height=220&section=header&text=Hey%20There,%20I'm%20Pranshu%20Chauhan%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20R%26D%20Intern%20%40%20IIT%20Ropar&descAlignY=58&descSize=17" width="100%"/>
 
 <p align="center">
+  <img src="assets/profile.jpg" width="160" style="border-radius:50%;" alt="Pranshu Chauhan" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+AI-Powered+Web+Apps+%F0%9F%A4%96;100%2B+DSA+Problems+on+LeetCode+%F0%9F%92%AA;Always+Shipping+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
