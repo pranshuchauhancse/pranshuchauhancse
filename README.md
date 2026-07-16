@@ -5,7 +5,7 @@
     width="120">
 </p> -->
 
-<h1 align="center">Pranshu Chauhan</h1>
+<h1 align="center">Hi , I'm Pranshu Chauhan</h1>
 
 <p align="center">
   <b>MERN Stack Developer • AI Enthusiast • Software Developer • R&D Intern @ IIT Ropar • Software Developer</b>
