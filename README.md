@@ -1,9 +1,9 @@
 <p align="center">
-  <img
+  <!-- <img
     src="https://raw.githubusercontent.com/pranshuchauhancse/pranshuchauhancse/main/assests/Pranshu%20Chauhan.jpeg"
     alt="Pranshu Chauhan"
     width="120">
-</p>
+</p> -->
 
 <h1 align="center">Pranshu Chauhan</h1>
 
@@ -162,6 +162,5 @@ Fully responsive personal portfolio showcasing projects, skills, and certificati
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranshuchauhancse&theme=radical&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
 </p>
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6a00f4&height=100&section=footer" width="100%"/>
