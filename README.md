@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00f4,100:00d4ff&height=220&section=header&text=Hey%20There,%20I'm%20Pranshu%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20R%26D%20Intern%20%40%20IIT%20Ropar&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00f4,100:00d4ff&height=220&section=header&text=Hey%20There,%20I'm%20Pranshu%20Chauhan%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20R%26D%20Intern%20%40%20IIT%20Ropar&descAlignY=58&descSize=17" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+AI-Powered+Web+Apps+%F0%9F%A4%96;100%2B+DSA+Problems+on+LeetCode+%F0%9F%92%AA;Always+Shipping+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pranshu-chauhan-731265290/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/pranshuchauhancse"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:pranshuchauhan121005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:pranshu121005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://pranshu-chauhan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6a00f4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=pranshuchauhancse&label=Profile%20Views&color=6a00f4&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -27,7 +27,7 @@ const pranshu = {
     currentlyLearning: ["Advanced AI/LLM Integration", "System Design"],
     askMeAbout: ["React.js", "Node.js", "MongoDB", "OpenAI APIs"],
     funFact: "Solved 100+ DSA problems on LeetCode & survived a 36-hour hackathon 😂",
-    reachMe: "pranshuchauhan121005@gmail.com"
+    reachMe: "pranshu121005@gmail.com"
 };
 ```
 
@@ -151,40 +151,6 @@ Fully responsive personal portfolio showcasing projects, skills, and certificati
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranshuchauhancse&theme=radical&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
 </p>
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Duration |
-|---|---|---|
-| B.Tech in Computer Science & Engineering | GLA University, Mathura | 2023 – 2027 |
-| Intermediate (CBSE) | Army Public School, Fatehgarh | 2022 – 2023 |
-| High School (CBSE) | Army Public School, Fatehgarh | 2020 – 2021 |
-
----
-
-## 📜 Certifications
-
-- Prompt Engineering Applications — Simplilearn
-- Microsoft Azure Fundamentals — Simplilearn
-- Generative AI, LLMs & RAG — GeeksforGeeks
-- Full Stack Web Development (JOVAC Program) — Coding Blocks
-- Python Fundamentals — Infosys Springboard
-- Git — GeeksforGeeks
-- Fundamentals of Generative AI — Microsoft
-
----
-
-## 🏆 Achievements & Leadership
-
-- Selected as **R&D Intern at IIT Ropar**, contributing to the AI-powered Nyay AI platform
-- Solved **100+ DSA problems** on LeetCode
-- Built & deployed multiple **MERN Stack and AI-powered** web applications
-- Participated in the **36-Hour AI-Nirman Hackathon**
-- **Coordinator**, Srijan Cultural Fest, GLA University (2024–2025)
-- **Volunteer**, Spandan Annual Fest & Treasure Hunt, GLA University (2024–2025)
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6a00f4&height=100&section=footer" width="100%"/>
